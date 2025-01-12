@@ -73,7 +73,7 @@ const Student = () => {
               <div className="text-sm text-zinc-400 flex items-center gap-2">
                 Contact Number
               </div>
-              <p className="px-4 py-2.5 bg-base-200 rounded-lg border">{ selectedStudent?.contact_num }</p>
+              <p className="px-4 py-2.5 bg-base-200 rounded-lg border">0{ selectedStudent?.contact_num }</p>
             </div>
 
             <div className="space-y-1.5">
