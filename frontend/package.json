@@ -32,5 +32,13 @@
     "globals": "^15.12.0",
     "postcss": "^8.5.14",
     "tailwindcss": "^4.1.17"
+  },
+  "overrides": {
+    "js-yaml": "^4.3.2"
+  },
+  "pnpm": {
+    "overrides": {
+      "js-yaml": "^4.3.2"
+    }
   }
 }

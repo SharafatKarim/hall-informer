@@ -10,5 +10,13 @@
   "author": "",
   "license": "ISC",
   "type": "commonjs",
-  "description": ""
+  "description": "",
+  "overrides": {
+    "js-yaml": "^4.3.2"
+  },
+  "pnpm": {
+    "overrides": {
+      "js-yaml": "^4.3.2"
+    }
+  }
 }
